@@ -2,7 +2,7 @@
     z-index: 9999;
     position: absolute;
     top: 20px;
-    left: 20px;
+    left: 8px;
     animation: show_toast 1s ease forwards;
 }
 
@@ -40,11 +40,11 @@
 
 .wrapper-toast .toast-div {
     background: #fff;
-    padding: 20px 15px 20px 20px;
+    padding: 15px 15px 15px 15px;
     border-radius: 10px;
     border-left: 5px solid #2ecc71;
     box-shadow: 1px 7px 14px -5px rgba(0, 0, 0, 0.15);
-    width: 430px;
+    width: 360px;
     display: flex;
     align-items: center;
     justify-content: space-between;
