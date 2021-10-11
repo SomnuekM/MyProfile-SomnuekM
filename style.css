@@ -7,7 +7,7 @@ body {
 }
 
 
-/* Custom styles scroll */
+/* >>>>>> Custom styles scroll */
 
 body::-webkit-scrollbar {
     width: 12px;
@@ -51,7 +51,7 @@ body .user-profile {
 }
 
 
-/* Custom styles scroll */
+/* Custom styles scroll <<<<<<<<<< */
 
 .account-settings .user-profile .user-avatar {
     margin: 0 0 1rem 0;
