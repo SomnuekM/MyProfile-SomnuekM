@@ -6,11 +6,52 @@ body {
     margin-top: 20px;
 }
 
-.account-settings .user-profile {
+
+/* Custom styles scroll */
+
+body::-webkit-scrollbar {
+    width: 12px;
+    /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+    background: #1A233A;
+    /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+    scrollbar-color: #d4aa70 #e4e4e4;
+    /* color of the scroll thumb */
+    border-radius: 20px;
+    /* roundness of the scroll thumb */
+    border: 3px solid rgb(206, 175, 118);
+    /* creates padding around scroll thumb */
+}
+
+body a {
+    transition: 0.3s;
+}
+
+body a:hover {
+    color: #e27319;
+}
+
+body:after {
+    content: '';
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+body .user-profile {
     margin: 0 0 1rem 0;
     padding-bottom: 1rem;
     text-align: center;
 }
+
+
+/* Custom styles scroll */
 
 .account-settings .user-profile .user-avatar {
     margin: 0 0 1rem 0;
