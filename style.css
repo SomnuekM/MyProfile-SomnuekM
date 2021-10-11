@@ -317,3 +317,31 @@ body .user-profile {
     color: #6c757d;
     font-weight: 600;
 }
+
+
+/* ----- Go Top  */
+
+#goTop {
+    display: none;
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 26px;
+    border: none;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0);
+    cursor: pointer;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50%;
+}
+
+#goTop:hover {
+    background-color: rgb(139, 134, 134);
+}
+
+
+/* ----- Go Top  */
