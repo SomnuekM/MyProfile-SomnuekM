@@ -2,7 +2,7 @@
     z-index: 9999;
     position: absolute;
     top: 20px;
-    right: 27px;
+    right: 15px;
     animation: show_toast 1s ease forwards;
 }
 
