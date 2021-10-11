@@ -2,4 +2,4 @@
 
 [My Profile](https://somnuekm.github.io/MyProfile-SomnuekM/)
 
-![image](https://user-images.githubusercontent.com/58202287/136699150-a96a89f1-8b14-4762-8711-92e6268d7efc.png)
+![image](https://user-images.githubusercontent.com/58202287/136723876-f2494945-2e63-45eb-b44b-e4497c34c90a.png)
